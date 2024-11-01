@@ -1,0 +1,6 @@
+/* Ejemplo de estilos personalizados */
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
